@@ -60,7 +60,7 @@ The dataset includes:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./Insurance_claim_dashboard.png)
+![Dashboard](images/Insurance_claim_dashboard.png)
 
 ### Key Insights:
 
