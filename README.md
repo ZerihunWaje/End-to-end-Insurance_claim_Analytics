@@ -15,7 +15,7 @@ The dataset includes:
 
 ## Data Pipeline Architecture
 
-![Data Pipeline](./Data_pipeline_insurance.png)
+![Data Pipeline](images/Data_pipeline_insurance.png)
 
 ### 🔄 Flow:
 
@@ -171,7 +171,7 @@ dbt run
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Zerihun Waje**
 
 ---
 
