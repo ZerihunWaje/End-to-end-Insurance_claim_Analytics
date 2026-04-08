@@ -1,6 +1,6 @@
-# 🚀 Real-Time Insurance Data Pipeline & Analytics Dashboard
+#  Real-Time Insurance Data Pipeline & Analytics Dashboard
 
-## 📌 Overview
+## Overview
 
 This project demonstrates a **modern data engineering pipeline** that simulates real-time insurance data, processes it through a cloud data stack, and visualizes insights using an interactive dashboard.
 
@@ -49,12 +49,12 @@ The dataset includes:
 
 ## ⚙️ Tech Stack
 
-* 🟢 MongoDB (NoSQL Database)
-* 🔵 Airbyte (Data Integration)
-* ❄️ Snowflake (Cloud Data Warehouse)
-* 🧱 dbt (Data Transformation)
-* 📊 Power BI (Data Visualization)
-* 🐍 Python (Data Simulation)
+*  MongoDB (NoSQL Database)
+*  Airbyte (Data Integration)
+*  Snowflake (Cloud Data Warehouse)
+*  dbt (Data Transformation)
+*  Power BI (Data Visualization)
+*  Python (Data Simulation)
 
 ---
 
@@ -64,16 +64,16 @@ The dataset includes:
 
 ### Key Insights:
 
-* 📈 Total Claims Over Time
-* 🚨 Fraud Detection Trends
-* 💰 Total Claim Amount
-* 👥 Customer Distribution
-* 🏠 Policy Type Breakdown
-* 🗺️ Fraud by State
+*  Total Claims Over Time
+*  Fraud Detection Trends
+*  Total Claim Amount
+*  Customer Distribution
+*  Policy Type Breakdown
+*  Fraud by State
 
 ---
 
-## 🔁 Project Workflow
+##  Project Workflow
 
 ```text
 Python (Faker)
@@ -97,7 +97,6 @@ Power BI (Dashboard)
 insurance-pipeline-project/
 │
 ├── data-generator/        # Python real-time data generator
-├── airbyte/               # Airbyte configs (optional)
 ├── dbt_project/           # dbt models & transformations
 ├── dashboard/             # Power BI file
 ├── images/                # Architecture & dashboard images
@@ -117,7 +116,7 @@ insurance-pipeline-project/
 
 ---
 
-## 🧠 Use Cases
+## Use Cases
 
 * Fraud detection analytics
 * Insurance claim monitoring
